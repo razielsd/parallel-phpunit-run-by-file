@@ -15,8 +15,8 @@ Full manual: https://github.com/verkkokauppacom/parallel-phpunit
 
 Changes
 ----
-
-When using parameter --group run tests only exists selected groups
+- Summary report show only at end
+- When using parameter --group run tests only exists selected groups
 
 Why
 ----
